@@ -1,0 +1,396 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+34 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$AddNeighbor$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$AddNeighbor.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$1.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$mcVI$sp$5.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4$$anonfun$apply$mcVI$sp$6.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$4.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$receive$1.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$DeleteNeighbor$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$KeepKilling$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$KeepSpreading$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node$$anonfun$receive$2$$anonfun$applyOrElse$2.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node$$anonfun$receive$2.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$NodeConverged$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$NodeStoped$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSum$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSum.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSumFinished$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSumFinished.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$SHOW$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$SendRoumor$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Start$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Suicide$.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Suicide.class
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator.class
+binary dependencies:
+4 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.5.jar
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /Users/zhongyanqiu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+34 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$AddNeighbor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$AddNeighbor$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$mcVI$sp$5
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$3
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4$$anonfun$apply$mcVI$sp$6
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$buildGraph$4
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$receive$1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Admin$$anonfun$receive$1$$anonfun$applyOrElse$1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$DeleteNeighbor$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$KeepKilling$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$KeepSpreading$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Node
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Node$$anonfun$receive$2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Node$$anonfun$receive$2$$anonfun$applyOrElse$2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$NodeConverged$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$NodeStoped$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$PushSum
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$PushSum$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$PushSumFinished
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$PushSumFinished$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$SHOW$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$SendRoumor$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Start$
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Suicide
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator$Suicide$
+used names:
+216 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> !
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> !=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> &&
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> *
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> +
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> -
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> /
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> <
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> <=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> <init>
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ==
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> >
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> >=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> A1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ALG
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> AbstractFunction1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> AbstractFunction2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Actor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ActorRef
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ActorSystem
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> AddNeighbor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Admin
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> AnyRef
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Array
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ArrayList
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> B1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Boolean
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Broadcast
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> BroadcastGroup
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Cancellable
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ConfigFactory
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> DIRECTIONX
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> DIRECTIONY
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> DIRECTIONZ
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> DeleteNeighbor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Double
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Duration
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Exception
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> FULL
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Function1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GOSSIP
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> GossipSimulator
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ID
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> IMPERFECT_3D
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Int
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> KeepKilling
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> KeepSpreading
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> LINE
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> List
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Long
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> MAX_RUMOUR_RECEIVE_TIME
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Math
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Node
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> NodeConverged
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> NodeStoped
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> None
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> PERFECT_3D
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> PUSH_SUM
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Predef
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Product
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Props
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> PushSum
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> PushSumFinished
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> RATIO_STABLE_TIME
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Random
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> RoundRobinGroup
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> SHOW
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ScalaRunTime
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> SendRoumor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Serializable
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Start
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Statics
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> String
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Suicide
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> System
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> THRESHOLD
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> TOPOLOGY
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> TimeUnit
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Tuple4
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Unit
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> Zero
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _3
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _4
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _hashCode
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> _toString
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> abs
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> actor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> actorOf
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> actorRef2Scala
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> add
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> addAll
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> admin
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> akka
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> algo
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> algorithm
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> apply
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> args
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> asInstanceOf
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> augmentString
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> buildGraph
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> cancel
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> cbrt
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ceil
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> com
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> concurrent
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> config
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> contains
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> context
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> cubeSize
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> currentTimeMillis
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> deadPercent
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> direct
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> dispatcher
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> doubleHash
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> duration
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> endTime
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> endTime_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> eq
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> equals
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> exit
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> finalizeHash
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> foreach
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> get
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> i
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> immutable
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> intWrapper
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> isCancelled
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> isEmpty
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> isInstanceOf
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> j
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> java
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> k
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> killer
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> killer_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> lang
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> length
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> load
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> mix
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ne
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> neighbor
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> neighbors
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> newNeighbors
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> newRatio
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> next
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nextInt
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeConverged
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeConverged_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeID
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeIndex
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeUp
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodeUp_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> nodes
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> numNodesDead
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> numNodesDead_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> numOfNodes
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> oldRatio
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> package
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> parent
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> pow
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> println
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> qual$1
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> randomGenerator
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> randomNum
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ratio
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> readArgs
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> remove
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> routing
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> rumourReceived
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> rumourReceived_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> runtime
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> s
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> s_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> scala
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> schedule
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> scheduler
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> selectRandomNode
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> self
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> sender
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> shutdown
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> si
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> size
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> stableTime
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> stableTime_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> startTime
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> startTime_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> system
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> systemCongif
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> systemShutdown
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> systemShutdown_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> to
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> toDouble
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> toInt
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> toLowerCase
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> toOneDimention
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> toString
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> topology
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> totalDeadNodes
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> totalDeadNodes_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> typedProductIterator
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> typesafe
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> unary_!
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> unchecked
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> util
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> w
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> w_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> watcher
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> watcher_=
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> wi
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> x
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> x$2
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> x$3
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> y
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> z
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> ||
+product stamps:
+34 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$AddNeighbor$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$AddNeighbor.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$1.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2$$anonfun$apply$mcVI$sp$5.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVI$sp$2.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2$$anonfun$apply$mcVI$sp$1.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$2.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4$$anonfun$apply$mcVI$sp$6.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3$$anonfun$apply$mcVI$sp$4.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3$$anonfun$apply$mcVI$sp$3.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$3.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$buildGraph$4.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin$$anonfun$receive$1.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Admin.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$DeleteNeighbor$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$KeepKilling$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$KeepSpreading$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node$$anonfun$receive$2$$anonfun$applyOrElse$2.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node$$anonfun$receive$2.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Node.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$NodeConverged$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$NodeStoped$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSum$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSum.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSumFinished$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$PushSumFinished.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$SHOW$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$SendRoumor$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Start$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Suicide$.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator$Suicide.class -> lastModified(1443405623000)
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/target/scala-2.11/classes/GossipSimulator.class -> lastModified(1443405623000)
+source stamps:
+1 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> hash(b6efc1d90eadb1d4f3808aad3c1733c9987c561a)
+binary stamps:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1438711540000)
+/Users/zhongyanqiu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.5.jar -> lastModified(1407955902000)
+/Users/zhongyanqiu/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> lastModified(1399042454000)
+/Users/zhongyanqiu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+4 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_60.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/zhongyanqiu/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.5.jar -> akka.actor.Actor
+/Users/zhongyanqiu/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar -> com.typesafe.config.ConfigFactory
+/Users/zhongyanqiu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction1
+internal apis:
+1 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHALEVm3AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwWjTWjnQABHNlbGZzcQB+AAu+r2RpdAAHY29udGV4dHVxAH4ACQAAAGhzcQB+AAum0ysmdAAIcmVhZEFyZ3NzcQB+AAvij5C/dAAGbm90aWZ5c3EAfgAL2BwFSHQAAklEc3EAfgALnWnYlXQAB3VuYXBwbHlzcQB+AAuN5EZWdAAKRElSRUNUSU9OWHNxAH4AC3CKQm50AAFzc3EAfgAL5Q1p4nQACG5laWdoYm9yc3EAfgALCFRxpXQAB2N1cnJpZWRzcQB+AAvzXwJOdAAHUmVjZWl2ZXNxAH4ACy9MFxd0ABdNQVhfUlVNT1VSX1JFQ0VJVkVfVElNRXNxAH4AC6TWhWB0AAJ3aXNxAH4AC9glO8t0AAVBZG1pbnNxAH4AC3cS1Rx0AA9QdXNoU3VtRmluaXNoZWRzcQB+AAvUEfqRdAAEd2FpdHNxAH4AC2xpEGV0AAlzdGFydFRpbWVzcQB+AAuVDhH8dAANS2VlcFNwcmVhZGluZ3NxAH4AC/STgjx0AA5jb3B5JGRlZmF1bHQkMnNxAH4AC0R/PCh0AA0kYXNJbnN0YW5jZU9mc3EAfgAL+s601nQAB2NvbXBvc2VzcQB+AAtgosNvdAANbm9kZUNvbnZlcmdlZHNxAH4AC5CxBaV0AAxwcm9kdWN0QXJpdHlzcQB+AAt9Ws81dAAGZXF1YWxzc3EAfgALmtlvwHQAAnNpc3EAfgAL1rM5InQACVRIUkVTSE9MRHNxAH4AC6NslQR0AARMSU5Fc3EAfgAL+7F6lXQAA0FMR3NxAH4ACx9qh4B0AAxhc0luc3RhbmNlT2ZzcQB+AAtatVI+dAAGR09TU0lQc3EAfgALuubgUnQACk5vZGVTdG9wZWRzcQB+AAuKuEAodAAJbmVpZ2hib3Jzc3EAfgALCMy/S3QACFRPUE9MT0dZc3EAfgALCJmr8nQADHN5bmNocm9uaXplZHNxAH4ACx6DVv10AAtBZGROZWlnaGJvcnNxAH4AC1oyVPN0AAZraWxsZXJzcQB+AAsZsZiRdAAKc3RhYmxlVGltZXNxAH4AC9c/VTd0AA0kaXNJbnN0YW5jZU9mc3EAfgALg70gGnQAB1B1c2hTdW1zcQB+AAuYfMEldAAEYWxnb3NxAH4AC3Uo55V0AAROb2Rlc3EAfgALDHdVEXQAB2FuZFRoZW5zcQB+AAtzC5+UdAAHcmVjZWl2ZXNxAH4AC52WU750AApwcmVSZXN0YXJ0c3EAfgAL3JZu53QABnR1cGxlZHNxAH4ACyj1J4d0AApESVJFQ1RJT05Zc3EAfgALQRO7t3QAC0tlZXBLaWxsaW5nc3EAfgALUvFV2HQADWFyb3VuZFJlY2VpdmVzcQB+AAutWnLDdAAOdG9PbmVEaW1lbnRpb25zcQB+AAvNksGfdAAGbm9kZVVwc3EAfgALaIEYPXQACGNhbkVxdWFsc3EAfgALvPs43HQAC3Bvc3RSZXN0YXJ0c3EAfgAL6wwXC3QABG1haW5zcQB+AAu7MxxNdAAFU3RhcnRzcQB+AAua6cwOdAAIcG9zdFN0b3BzcQB+AAsw9bJBdAANcHJvZHVjdFByZWZpeHNxAH4AC55NCJJ0AApidWlsZEdyYXBoc3EAfgALV17kH3QACW5vdGlmeUFsbHNxAH4AC3dBNzR0AAtyZWFkUmVzb2x2ZXNxAH4AC31Iq5R0AApTZW5kUm91bW9yc3EAfgAL8eHh4HQADnJ1bW91clJlY2VpdmVkc3EAfgALbqV2aHQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALcpTj8nQADGlzSW5zdGFuY2VPZnNxAH4AC8472Z50ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALwVzHA3QAEVJBVElPX1NUQUJMRV9USU1Fc3EAfgAL/B7RU3QADmFyb3VuZFBvc3RTdG9wc3EAfgALn0JOyXQAB2VuZFRpbWVzcQB+AAseaNm9dAAQc2VsZWN0UmFuZG9tTm9kZXNxAH4AC0wqoZh0AAY8aW5pdD5zcQB+AAuZjlvxdAAIcHJlU3RhcnRzcQB+AAu+1tEHdAAFcmF0aW9zcQB+AAue5MHRdAAJdW5oYW5kbGVkc3EAfgALACKp3nQABWFwcGx5c3EAfgALkeb/XHQAD0dvc3NpcFNpbXVsYXRvcnNxAH4AC7hKTsd0AAVub2Rlc3NxAH4AC1S54490AAI9PXNxAH4AC2zD/tN0AAVjbG9uZXNxAH4ACyiGuah0AA5zeXN0ZW1TaHV0ZG93bnNxAH4ACw9TtPl0AARjb3B5c3EAfgALkb1o7nQABnNlbmRlcnNxAH4AC0SDXEh0AAh0b1N0cmluZ3NxAH4AC+yp3Rp0AAIhPXNxAH4AC1UwhD90AA1Ob2RlQ29udmVyZ2Vkc3EAfgALdmI6e3QACkRJUkVDVElPTlpzcQB+AAsS+XV5dAAIZ2V0Q2xhc3NzcQB+AAt5+BgFdAAOY29weSRkZWZhdWx0JDFzcQB+AAvVklHfdAABd3NxAH4AC7VQdAp0AAdTdWljaWRlc3EAfgAL3JEIN3QAAm5lc3EAfgALWBx0xHQADG51bU5vZGVzRGVhZHNxAH4AC+JFKNt0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAscO79ddAACZXFzcQB+AAuts+mEdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALy22lInQAClBFUkZFQ1RfM0RzcQB+AAukmZuwdAAERlVMTHNxAH4ACxLmUH10AAIjI3NxAH4AC5QVj/10AAhmaW5hbGl6ZXNxAH4AC0dudMh0AA5wcm9kdWN0RWxlbWVudHNxAH4ACyPolnt0AA50b3RhbERlYWROb2Rlc3NxAH4AC1bIu5R0AAhoYXNoQ29kZXNxAH4AC7cne+Z0AAhQVVNIX1NVTXNxAH4AC8XNpjF0AA5hcm91bmRQcmVTdGFydHNxAH4ACwnjkkl0AA5EZWxldGVOZWlnaGJvcnNxAH4AC5Mrd5d0AARTSE9Xc3EAfgALhGQJm3QAB3dhdGNoZXJzcQB+AAsS9GLydAAMSU1QRVJGRUNUXzNEc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4A63hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgChdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BA3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BAgBwc3EAfgEHc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AOtMAAlpbmhlcml0ZWRxAH4A60wAB3BhcmVudHNxAH4A63hxAH4BC3NxAH4BAgBwc3EAfgEHdXEAfgDmAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgDscQB+APV1cQB+APYAAAAAc3EAfgD4AHEAfgB3dXEAfgD6AAAAAHNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADEwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AQp0AARVbml0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEKc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgEodXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4BFXhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4A/XQABVBsYWludAAEYXJnc3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4BHFsADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4BCnNxAH4BG3QABUFycmF5cQB+ASF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4BG3QABlN0cmluZ3NxAH4BH3NxAH4BInVxAH4BJQAAAANzcQB+ASd0AARqYXZhc3EAfgEndAAEbGFuZ3EAfgEsc3EAfgECAHBzcQB+AQd1cQB+AOYAAAAAc3EAfgECAHBzcQB+AQd1cQB+AUAAAAACc3EAfgEbdAAGT2JqZWN0cQB+AURzcQB+ARt0AANBbnlxAH4BIXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFQEa3fqnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AE8vVXNlcnMvemhvbmd5YW5xaXUvRG9jdW1lbnRzL2JpdGJ1Y2tldC9wcm9qZWN0Mi9ib251cy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUtu/B2Q6tsdTzgIqtPBczyZh8Vho=
+external apis:
+0 items
+source infos:
+1 items
+/Users/zhongyanqiu/Documents/bitbucket/project2/bonus/src/main/scala/project2_bonus.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUBGt36p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATy9Vc2Vycy96aG9uZ3lhbnFpdS9Eb2N1bWVudHMvYml0YnVja2V0L3Byb2plY3QyL2JvbnVzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
